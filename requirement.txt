@@ -1,0 +1,7 @@
+﻿certifi==2019.01.10
+chardet==3.0.4
+Django==2.1.5
+idna==2.8
+juspayp3==1.0.1
+Pillow==5.4.1
+urllib3==1.24.1
